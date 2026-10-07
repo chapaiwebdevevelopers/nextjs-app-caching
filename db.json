@@ -187,5 +187,121 @@
       "rating": 4.3,
       "stock": 21
     }
+  ],
+
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist ",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 450,
+      "rating": 4.8,
+      "shortdescription": "A young shepherd follows his dreams in search of a hidden treasure.",
+      "description": "The Alchemist tells the inspiring story of Santiago, a young shepherd from Andalusia who dreams of discovering a treasure hidden near the Egyptian pyramids. Encouraged by mysterious encounters and guided by his desire to fulfil his personal legend, Santiago leaves behind his familiar life and begins an extraordinary journey across deserts and distant lands. Along the way, he meets different people who teach him valuable lessons about courage, love, failure, destiny, and the importance of listening to his heart. The journey ultimately shows him that the greatest treasures are often found through the experiences and lessons gained while pursuing our dreams.",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f"
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self Development",
+      "price": 650,
+      "rating": 4.9,
+      "shortdescription": "A practical guide to creating good habits through small and consistent improvements.",
+      "description": "Atomic Habits explains how small changes in daily behaviour can produce remarkable results over time. James Clear presents a practical system for building positive habits and breaking negative ones by focusing on the systems behind our behaviour rather than relying only on motivation. The book explains how habits are formed, how the environment influences our actions, and how making tiny improvements consistently can lead to significant long-term progress. It provides useful strategies for creating better routines, overcoming bad habits, staying consistent, and becoming the kind of person who naturally follows positive behaviours.",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "category": "Finance",
+      "price": 550,
+      "rating": 4.7,
+      "shortdescription": "A personal finance classic about money, investing, and financial education.",
+      "description": "Rich Dad Poor Dad presents the author's experiences with two influential father figures who had very different approaches to money and financial education. Robert Kiyosaki uses these experiences to explain how people can develop a stronger understanding of income, expenses, assets, liabilities, investing, and financial independence. The book challenges traditional ideas about employment and wealth and encourages readers to think about how money can work for them rather than simply working for money. It also highlights the importance of financial knowledge, entrepreneurship, and long-term thinking.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f"
+    },
+    {
+      "id": 4,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 700,
+      "rating": 4.8,
+      "shortdescription": "An insightful look at how emotions and behaviour influence financial decisions.",
+      "description": "The Psychology of Money explores the often-overlooked relationship between human behaviour and financial decisions. Morgan Housel uses a collection of engaging stories and observations to explain why people think differently about wealth, spending, saving, investing, risk, and success. The book demonstrates that financial outcomes are influenced not only by knowledge and mathematics but also by personal experiences, emotions, habits, and beliefs. It encourages readers to develop patience, make thoughtful financial decisions, avoid unnecessary risks, and understand that building wealth is often a long-term process.",
+      "image": "https://images.unsplash.com/photo-1559526324-593bc073d938"
+    },
+    {
+      "id": 5,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "category": "Motivation",
+      "price": 400,
+      "rating": 4.6,
+      "shortdescription": "A classic guide to developing a success-oriented mindset and achieving goals.",
+      "description": "Think and Grow Rich is a classic personal development book focused on the principles and mindset associated with achieving success. Napoleon Hill discusses the importance of having clear goals, developing strong desire, maintaining persistence, and believing in one's ability to succeed. The book draws on ideas gathered from studying successful individuals and presents a number of principles related to personal achievement, leadership, decision-making, and disciplined thinking. Its central message encourages readers to develop a clear vision and consistently work towards their goals despite challenges and setbacks.",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
+    },
+    {
+      "id": 6,
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "category": "Personal Development",
+      "price": 600,
+      "rating": 4.7,
+      "shortdescription": "A guide to mindfulness and finding greater peace by focusing on the present.",
+      "description": "The Power of Now explores the idea that much of human stress and dissatisfaction comes from constantly thinking about the past or worrying about the future. Eckhart Tolle encourages readers to develop greater awareness of the present moment and recognise the difference between their thoughts and their deeper sense of awareness. Through practical ideas and reflective explanations, the book discusses mindfulness, acceptance, inner peace, and reducing unnecessary mental activity. It encourages readers to become more present in everyday life and develop a calmer relationship with their thoughts and emotions.",
+      "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66"
+    },
+    {
+      "id": 7,
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Dystopian Fiction",
+      "price": 500,
+      "rating": 4.8,
+      "shortdescription": "A dystopian story about government control, surveillance, and the loss of personal freedom.",
+      "description": "1984 is a dystopian novel set in a society controlled by an authoritarian government known as the Party. Winston Smith works for the government and secretly questions the political system that controls nearly every aspect of people's lives. Constant surveillance, manipulated information, restricted language, and psychological control are used to maintain power. As Winston begins to seek truth and personal freedom, he becomes increasingly aware of the dangers of challenging the system. The novel explores themes of political power, censorship, propaganda, privacy, individuality, and the manipulation of truth.",
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e"
+    },
+    {
+      "id": 8,
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "category": "Self Development",
+      "price": 750,
+      "rating": 4.9,
+      "shortdescription": "A practical framework for improving personal effectiveness, relationships, and leadership.",
+      "description": "The 7 Habits of Highly Effective People presents a structured approach to personal and professional development. Stephen R. Covey explains seven principles designed to help readers become more effective in managing themselves, working with others, and building meaningful relationships. The book begins with personal responsibility and goal setting before moving towards cooperation, communication, and continuous improvement. It encourages readers to develop proactive behaviour, prioritise important tasks, understand different perspectives, create mutually beneficial relationships, and maintain a balanced approach to personal growth.",
+      "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353"
+    },
+    {
+      "id": 9,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "category": "Fantasy",
+      "price": 550,
+      "rating": 4.9,
+      "shortdescription": "A young boy discovers that he is a wizard and begins his magical journey at Hogwarts.",
+      "description": "Harry Potter and the Philosopher's Stone introduces Harry Potter, an orphan who discovers on his eleventh birthday that he is a wizard. After growing up with relatives who treat him poorly, Harry enters the magical world and begins studying at Hogwarts School of Witchcraft and Wizardry. There he makes close friends, learns about magic, discovers more about his family history, and becomes involved in a mysterious adventure surrounding the Philosopher's Stone. The story combines friendship, courage, mystery, magic, and the struggle between good and evil as Harry begins to understand his place in the wizarding world.",
+      "image": "https://images.unsplash.com/photo-1621351183012-e2f9972dd9bf"
+    },
+    {
+      "id": 10,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Classic Fiction",
+      "price": 450,
+      "rating": 4.6,
+      "shortdescription": "A classic story of love, wealth, ambition, and the American Dream.",
+      "description": "The Great Gatsby follows Nick Carraway, a young man who moves to Long Island and becomes acquainted with the mysterious millionaire Jay Gatsby. Gatsby is known for his extravagant parties and enormous wealth, but behind his glamorous lifestyle lies a deep personal desire connected to his past. As Nick becomes involved in Gatsby's world, the story explores relationships between Gatsby, Daisy Buchanan, and others within the wealthy social circles of the time. The novel examines themes of love, ambition, wealth, social class, identity, and the difficulties of achieving the American Dream.",
+      "image": "https://images.unsplash.com/photo-1511108690759-009324a90311"
+    }
   ]
+
+
+
 }
