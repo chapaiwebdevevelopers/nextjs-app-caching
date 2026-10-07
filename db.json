@@ -1,0 +1,191 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": " Classic Premium Cotton T-Shirt",
+      "category": "Fashion",
+      "shortDescription": "Soft cotton T-shirt for comfortable everyday wear.",
+      "description": "The Classic Premium Cotton T-Shirt is made from soft and breathable cotton fabric that provides excellent comfort throughout the day. Its simple and stylish design makes it suitable for casual outings, shopping, travelling, university and everyday home use. The durable fabric and quality stitching help maintain its shape and appearance even after regular washing. It can be easily paired with jeans, trousers or shorts for a clean and comfortable everyday look.",
+      "price": 650,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "rating": 4.5,
+      "stock": 25
+    },
+    {
+      "id": "2",
+      "productName": "Professional Running Shoes",
+      "category": "Footwear",
+      "shortDescription": "Lightweight shoes for running and daily activities.",
+      "description": "Professional Running Shoes are designed to provide comfort, stability and support during running, walking and other daily activities. The lightweight construction makes them comfortable to wear for longer periods, while the cushioned sole helps provide better support with every step. The breathable upper material allows airflow to keep your feet comfortable. These shoes are suitable for gym workouts, morning walks, running, travelling and casual everyday use.",
+      "price": 2200,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "rating": 4.7,
+      "stock": 15
+    },
+    {
+      "id": "3",
+      "productName": "Premium Leather Backpack",
+      "category": "Bags",
+      "shortDescription": "Stylish leather backpack for work, study and travel.",
+      "description": "The Premium Leather Backpack offers a combination of stylish design, durability and practical storage. It provides enough space for books, notebooks, documents, a laptop, charger and other everyday essentials. Multiple compartments help keep your belongings organised and easy to access. The comfortable shoulder straps make it convenient to carry during work, study or travel. Its classic appearance makes it suitable for both professional and casual environments.",
+      "price": 1800,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "rating": 4.6,
+      "stock": 12
+    },
+    {
+      "id": "4",
+      "productName": "Advanced Smart Watch",
+      "category": "Electronics",
+      "shortDescription": "Modern smartwatch for activity tracking and notifications.",
+      "description": "The Advanced Smart Watch is a modern wearable designed to keep you connected while helping you monitor your daily activities. Its clear digital display makes it easy to check the time, notifications and activity information. The lightweight design provides comfortable use throughout the day, whether you are working, exercising or travelling. With its stylish appearance and practical features, it is a useful accessory for anyone looking for a modern everyday smartwatch.",
+      "price": 3500,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "rating": 4.4,
+      "stock": 18
+    },
+    {
+      "id": "5",
+      "productName": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "shortDescription": "Comfortable headphones with clear wireless audio.",
+      "description": "Wireless Bluetooth Headphones provide a convenient and comfortable listening experience without the need for wired connections. They are suitable for listening to music, watching videos, attending online meetings, studying and making calls. The comfortable ear cushions are designed for extended use, while Bluetooth connectivity provides freedom of movement. The clear and balanced audio makes them suitable for everyday entertainment and communication at home, work, school or while travelling.",
+      "price": 2800,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "rating": 4.8,
+      "stock": 20
+    },
+    {
+      "id": "6",
+      "productName": "Classic Denim Jacket",
+      "category": "Fashion",
+      "shortDescription": "Stylish denim jacket for casual everyday outfits.",
+      "description": "The Classic Denim Jacket is a versatile fashion essential designed for casual and everyday wear. Made from durable denim fabric, it provides a comfortable fit while offering a timeless appearance. The jacket can be paired with T-shirts, shirts, jeans or trousers to create a variety of stylish outfits. Its practical design makes it suitable for travelling, evening outings, casual meetings and regular outdoor activities.",
+      "price": 1850,
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5",
+      "rating": 4.5,
+      "stock": 20
+    },
+    {
+      "id": "7",
+      "productName": "Casual Polo Shirt",
+      "category": "Fashion",
+      "shortDescription": "Comfortable polo shirt with a clean casual design.",
+      "description": "The Casual Polo Shirt is made from comfortable fabric that is suitable for everyday activities and casual occasions. Its classic collar and simple design provide a smart yet relaxed appearance. The shirt can be worn with jeans, chinos or trousers and is suitable for shopping, office-casual environments, travelling and social gatherings. Its lightweight construction makes it comfortable for regular use.",
+      "price": 850,
+      "image": "https://images.unsplash.com/photo-1711355249709-1733df63e028",
+      "rating": 4.3,
+      "stock": 30
+    },
+    {
+      "id": "8",
+      "productName": "Classic Leather Wallet",
+      "category": "Accessories",
+      "shortDescription": "Compact leather wallet for cards, cash and ID.",
+      "description": "The Classic Leather Wallet is designed for carrying everyday essentials such as cash, bank cards and identification cards. Its compact design makes it easy to carry in a pocket while providing organised storage for important items. The durable leather-style material gives the wallet a classic appearance and makes it suitable for both professional and casual use. It is also a practical gift choice for family and friends.",
+      "price": 750,
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93",
+      "rating": 4.6,
+      "stock": 35
+    },
+    {
+      "id": "9",
+      "productName": "Premium Sunglasses",
+      "category": "Accessories",
+      "shortDescription": "Modern sunglasses with a stylish everyday design.",
+      "description": "Premium Sunglasses combine a modern appearance with practical everyday usability. The lightweight frame provides comfortable wear, while the classic design makes them suitable for different outfits and occasions. They are ideal for outdoor activities, travelling, driving and casual outings. Their stylish appearance also makes them a useful fashion accessory for completing a modern everyday look.",
+      "price": 950,
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+      "rating": 4.4,
+      "stock": 22
+    },
+    {
+      "id": "10",
+      "productName": "Sports Training T-Shirt",
+      "category": "Sports",
+      "shortDescription": "Lightweight sports T-shirt for workouts and training.",
+      "description": "The Sports Training T-Shirt is designed for people who enjoy exercise, gym workouts and outdoor activities. Its lightweight fabric provides comfortable movement during training and everyday exercise sessions. The simple athletic design makes it suitable for running, cycling, gym workouts and casual sports activities. It can also be used as a comfortable everyday T-shirt for an active lifestyle.",
+      "price": 750,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "rating": 4.5,
+      "stock": 28
+    },
+    {
+      "id": "11",
+      "productName": "Travel Sports Bag",
+      "category": "Bags",
+      "shortDescription": "Spacious sports bag for gym and short trips.",
+      "description": "The Travel Sports Bag provides practical storage for clothing, shoes, towels and other personal belongings. Its spacious main compartment allows you to carry your essentials comfortably, while additional pockets help keep smaller items organised. The durable construction makes it suitable for gym sessions, sports activities, weekend trips and short travel. Its practical design makes it a useful companion for an active lifestyle.",
+      "price": 1450,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "rating": 4.5,
+      "stock": 16
+    },
+    {
+      "id": "12",
+      "productName": "Portable Bluetooth Speaker",
+      "category": "Electronics",
+      "shortDescription": "Compact wireless speaker for music anywhere.",
+      "description": "The Portable Bluetooth Speaker is designed for convenient wireless music playback at home, outdoors or while travelling. Its compact size makes it easy to carry, while Bluetooth connectivity allows you to connect compatible smartphones, tablets and other devices. The speaker is suitable for listening to music, podcasts and videos. Its simple design and portability make it a useful entertainment accessory for everyday use.",
+      "price": 1650,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1",
+      "rating": 4.6,
+      "stock": 14
+    },
+    {
+      "id": "13",
+      "productName": "Mechanical Gaming Keyboard",
+      "category": "Computer Accessories",
+      "shortDescription": "Responsive mechanical keyboard for gaming and work.",
+      "description": "The Mechanical Gaming Keyboard is designed for gamers, programmers and users who spend long hours typing. Its responsive mechanical-style keys provide a comfortable and satisfying typing experience. The durable construction is suitable for regular use at home or in the office. It can be used for gaming, programming, writing, browsing and other computer activities where reliable keyboard performance is important.",
+      "price": 3200,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+      "rating": 4.7,
+      "stock": 10
+    },
+    {
+      "id": "14",
+      "productName": "Wireless Computer Mouse",
+      "category": "Computer Accessories",
+      "shortDescription": "Comfortable wireless mouse for everyday computer use.",
+      "description": "The Wireless Computer Mouse provides convenient and comfortable control for laptops and desktop computers without requiring a traditional wired connection. Its compact design makes it easy to use at home, work or while travelling. The mouse is suitable for browsing, office work, programming, graphic tasks and general computer use. Its simple design makes it an excellent everyday computer accessory.",
+      "price": 850,
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db",
+      "rating": 4.4,
+      "stock": 25
+    },
+    {
+      "id": "15",
+      "productName": "Stainless Steel Water Bottle",
+      "category": "Lifestyle",
+      "shortDescription": "Durable reusable bottle for everyday hydration.",
+      "description": "The Stainless Steel Water Bottle is designed for convenient everyday hydration at work, school, gym sessions and outdoor activities. Its durable construction makes it suitable for regular use, while the reusable design provides a practical alternative to disposable bottles. The compact shape makes it easy to carry in a backpack or travel bag. It is a useful everyday accessory for maintaining a convenient drinking routine.",
+      "price": 650,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+      "rating": 4.6,
+      "stock": 40
+    },
+    {
+      "id": "16",
+      "productName": "Modern Table Lamp",
+      "category": "Home & Living",
+      "shortDescription": "Minimal table lamp for study and bedroom use.",
+      "description": "The Modern Table Lamp features a simple and attractive design that works well in bedrooms, study areas, offices and living spaces. It provides a comfortable lighting solution for reading, studying, working or creating a relaxing atmosphere. Its compact design allows it to fit easily on desks, bedside tables and small furniture. The clean appearance makes it suitable for modern home and office interiors.",
+      "price": 1250,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+      "rating": 4.5,
+      "stock": 18
+    },
+    {
+      "id": "17",
+      "productName": "Wireless Charging Pad",
+      "category": "Mobile Accessories",
+      "shortDescription": "Convenient wireless charging pad for compatible devices.",
+      "description": "The Wireless Charging Pad provides a convenient way to charge compatible smartphones and other supported devices without repeatedly connecting a charging cable. Its compact design takes up very little space on a desk or bedside table. It is suitable for home, office and travel use and helps keep your charging area organised. Simply place a compatible device on the charging surface for convenient everyday charging.",
+      "price": 1100,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07",
+      "rating": 4.3,
+      "stock": 21
+    }
+  ]
+}
