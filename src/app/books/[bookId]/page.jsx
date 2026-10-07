@@ -1,20 +1,16 @@
 import Image from "next/image";
 import React from "react";
+import { connection } from "next/server";
+import { notFound } from "next/navigation";
+import { getBook } from "@/lib/catalog";
 
- // Generate 4 files index 0 to 3 which pre Generated for Loading Faster and better performance
-export const generateStaticParams= async()=>{
-      const res = await fetch('http://localhost:5000/books');
-      const books = await res.json();
-      // Slice indicate the how many files
-      return books.slice(0,3).map(book=>({
-            bookId:book.id
-      }))
-}
 const BookDetailsPage = async ({ params }) => {
+      await connection();
       const { bookId } = await params;
-      console.log("book", bookId);
-      const res = await fetch(`http://localhost:5000/books/${bookId}`);
-      const book = await res.json();
+      const book = await getBook(bookId);
+      if (!book) {
+            notFound();
+      }
       const {title,author,category,price,rating,shortdescription,description,image} = book;
 
       return (
