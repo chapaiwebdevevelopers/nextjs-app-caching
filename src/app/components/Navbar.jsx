@@ -3,9 +3,11 @@ import Link from 'next/link';
 import React, { use, useContext } from 'react';
 import { UserContext } from '../contexts/UserContext';
 import { UserContext3 } from '../contexts/Usercontext3';
+import useUser from '../hooks/useUser';
 
 const Navbar = () => {
-  const user = useContext(UserContext)
+  // const user = useContext(UserContext)  // import from useContext
+  const user = useUser();
 
 
   // const user = useContext(UserContext3)
