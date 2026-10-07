@@ -18,25 +18,48 @@ Some key reasons:
 
 This project demonstrates different caching techniques in a Next.js app:
 
-- `Books` page using `cache: 'force-cache'` to keep data cached for reuse
-- `Products` page using `revalidate: 20` to refresh data every 20 seconds
+- `Books` page caching database query results for reuse
+- `Products` page revalidating cached database query results after 20 seconds
 - `Posts` page demonstrating server-side data fetching with error handling
 - Responsive UI using Tailwind CSS and DaisyUI
 - Route-based pages like `/books`, `/products`, and `/posts`
-- Local JSON data served by `json-server` for demo purposes
+- Persistent catalog data stored in Netlify Database using Drizzle ORM
 - Modern React + Next.js architecture for production-ready frontend development
 
 ## How to run the project
 
 ```bash
 npm install
-npm run dev
+netlify dev --port 8889
 ```
 
 Then open:
 
 ```bash
-http://localhost:3000
+http://localhost:8889
+```
+
+## Database and deployment
+
+The catalog uses Netlify Database directly from Server Components. No external API,
+localhost JSON server, or public base URL environment variable is required. Use
+Netlify Dev with this project linked to its Netlify site for local database access.
+
+The schema is defined in `db/schema.ts`. Migrations in
+`netlify/database/migrations` create the catalog tables and seed the existing
+10 books and 17 products on deployment. `db.json` is retained as the original
+demo fixture; it is not used to store or load runtime catalog data.
+
+Book and product pages wait for an incoming request before querying the database,
+so production builds do not require a database connection or an API server.
+Book list results are cached until invalidated; product list results become
+eligible for revalidation after 20 seconds. Book details are queried per request,
+and unknown book IDs return a 404.
+
+After changing the schema, generate a migration with:
+
+```bash
+npx drizzle-kit generate --name describe_schema_change
 ```
 
 ## Summary
